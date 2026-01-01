@@ -1,0 +1,20 @@
+[
+  { "src": "/src/assets/cards/cc.png", "matched": false },
+  { "src": "/src/assets/cards/cha.png", "matched": false },
+  { "src": "/src/assets/cards/fubuki.png", "matched": false },
+  { "src": "/src/assets/cards/ichigo.png", "matched": false },
+  { "src": "/src/assets/cards/jinwo.png", "matched": false },
+  { "src": "/src/assets/cards/kalen.png", "matched": false },
+  { "src": "/src/assets/cards/lelouch.png", "matched": false },
+  { "src": "/src/assets/cards/luffy.png", "matched": false },
+  { "src": "/src/assets/cards/nami.png", "matched": false },
+  { "src": "/src/assets/cards/nezuko.png", "matched": false },
+  { "src": "/src/assets/cards/orahime.png", "matched": false },
+  { "src": "/src/assets/cards/saitama.png", "matched": false },
+  { "src": "/src/assets/cards/shanks.png", "matched": false },
+  { "src": "/src/assets/cards/tanjiro.png", "matched": false },
+  { "src": "/src/assets/cards/tatsumaki.png", "matched": false },
+  { "src": "/src/assets/cards/tengen.png", "matched": false },
+  { "src": "/src/assets/cards/zenitsu.png", "matched": false },
+  { "src": "/src/assets/cards/zoro.png", "matched": false }
+]
